@@ -1,0 +1,27 @@
+{
+  "totalSolved": 1,
+  "easy": 1,
+  "medium": 0,
+  "hard": 0,
+  "streak": 1,
+  "lastSolveDate": "2026-08-05",
+  "submissions": [
+    {
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "language": "Python",
+      "timestamp": "2026-08-05T12:58:35.029Z",
+      "folder": "array/0026-remove-duplicates-from-sorted-array",
+      "runtime": "3 ms",
+      "memory": "20.5 MB"
+    }
+  ],
+  "topicCounts": {
+    "Array": 1,
+    "Two Pointers": 1
+  },
+  "solvedProblems": {
+    "26": true
+  }
+}
