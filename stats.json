@@ -1,27 +1,39 @@
 {
-  "totalSolved": 1,
-  "easy": 1,
-  "medium": 0,
+  "easy": 2,
   "hard": 0,
-  "streak": 1,
   "lastSolveDate": "2026-08-05",
+  "medium": 0,
+  "solvedProblems": {
+    "1": true,
+    "26": true
+  },
+  "streak": 1,
   "submissions": [
     {
-      "id": "26",
-      "title": "Remove Duplicates from Sorted Array",
       "difficulty": "Easy",
-      "language": "Python",
-      "timestamp": "2026-08-05T12:58:35.029Z",
       "folder": "array/0026-remove-duplicates-from-sorted-array",
+      "id": "26",
+      "language": "Python",
+      "memory": "20.5 MB",
       "runtime": "3 ms",
-      "memory": "20.5 MB"
+      "timestamp": "2026-08-05T12:58:35.029Z",
+      "title": "Remove Duplicates from Sorted Array"
+    },
+    {
+      "id": "1",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "language": "Java",
+      "timestamp": "2026-08-05T13:00:10.361Z",
+      "folder": "array/0001-two-sum",
+      "runtime": "2 ms",
+      "memory": "47.1 MB"
     }
   ],
   "topicCounts": {
-    "Array": 1,
-    "Two Pointers": 1
+    "Array": 2,
+    "Two Pointers": 1,
+    "Hash Table": 1
   },
-  "solvedProblems": {
-    "26": true
-  }
+  "totalSolved": 2
 }

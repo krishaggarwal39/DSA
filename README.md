@@ -6,12 +6,12 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 1 | 1 | 0 | 0 | 1 days |
+| 2 | 2 | 0 | 0 | 1 days |
 
 ## Progress
 
 ```
-Easy   [████████████████████] 1
+Easy   [████████████████████] 2
 Medium [░░░░░░░░░░░░░░░░░░░░] 0
 Hard   [░░░░░░░░░░░░░░░░░░░░] 0
 ```
@@ -20,13 +20,15 @@ Hard   [░░░░░░░░░░░░░░░░░░░░] 0
 
 | Topic | Problems Solved |
 |-------|:---:|
-| Array | 1 |
+| Array | 2 |
 | Two Pointers | 1 |
+| Hash Table | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 1 | [Two Sum](array/0001-two-sum) | 🟢 Easy | Java | Aug 5 |
 | 26 | [Remove Duplicates from Sorted Array](array/0026-remove-duplicates-from-sorted-array) | 🟢 Easy | Python | Aug 5 |
 
 ## Contribution Streak
@@ -38,4 +40,4 @@ Jul 7                  Aug 5
 
 ---
 
-*Last updated: August 5, 2026 at 06:28 PM*
+*Last updated: August 5, 2026 at 06:30 PM*
