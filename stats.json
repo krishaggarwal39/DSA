@@ -1,5 +1,5 @@
 {
-  "easy": 3,
+  "easy": 4,
   "hard": 0,
   "lastSolveDate": "2026-08-06",
   "medium": 1,
@@ -7,7 +7,8 @@
     "1": true,
     "11": true,
     "26": true,
-    "125": true
+    "125": true,
+    "643": true
   },
   "streak": 2,
   "submissions": [
@@ -42,22 +43,33 @@
       "title": "Container With Most Water"
     },
     {
-      "id": "125",
-      "title": "Valid Palindrome",
       "difficulty": "Easy",
-      "language": "Java",
-      "timestamp": "2026-08-06T06:25:59.729Z",
       "folder": "two-pointers/0125-valid-palindrome",
+      "id": "125",
+      "language": "Java",
+      "memory": "43.9 MB",
       "runtime": "2 ms",
-      "memory": "43.9 MB"
+      "timestamp": "2026-08-06T06:25:59.729Z",
+      "title": "Valid Palindrome"
+    },
+    {
+      "id": "643",
+      "title": "Maximum Average Subarray I",
+      "difficulty": "Easy",
+      "language": "Python",
+      "timestamp": "2026-08-06T06:53:57.054Z",
+      "folder": "array/0643-maximum-average-subarray-i",
+      "runtime": "0 ms",
+      "memory": "19.3 MB"
     }
   ],
   "topicCounts": {
-    "Array": 3,
+    "Array": 4,
     "Greedy": 1,
     "Hash Table": 1,
+    "String": 1,
     "Two Pointers": 3,
-    "String": 1
+    "Sliding Window": 1
   },
-  "totalSolved": 4
+  "totalSolved": 5
 }
