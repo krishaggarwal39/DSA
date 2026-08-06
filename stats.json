@@ -1,14 +1,15 @@
 {
-  "easy": 2,
+  "easy": 3,
   "hard": 0,
-  "lastSolveDate": "2026-08-05",
+  "lastSolveDate": "2026-08-06",
   "medium": 1,
   "solvedProblems": {
     "1": true,
     "11": true,
-    "26": true
+    "26": true,
+    "125": true
   },
-  "streak": 1,
+  "streak": 2,
   "submissions": [
     {
       "difficulty": "Easy",
@@ -31,21 +32,32 @@
       "title": "Two Sum"
     },
     {
-      "id": "11",
-      "title": "Container With Most Water",
       "difficulty": "Medium",
-      "language": "Python",
-      "timestamp": "2026-08-05T13:01:59.423Z",
       "folder": "array/0011-container-with-most-water",
+      "id": "11",
+      "language": "Python",
+      "memory": "29.6 MB",
       "runtime": "58 ms",
-      "memory": "29.6 MB"
+      "timestamp": "2026-08-05T13:01:59.423Z",
+      "title": "Container With Most Water"
+    },
+    {
+      "id": "125",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "language": "Java",
+      "timestamp": "2026-08-06T06:25:59.729Z",
+      "folder": "two-pointers/0125-valid-palindrome",
+      "runtime": "2 ms",
+      "memory": "43.9 MB"
     }
   ],
   "topicCounts": {
     "Array": 3,
+    "Greedy": 1,
     "Hash Table": 1,
-    "Two Pointers": 2,
-    "Greedy": 1
+    "Two Pointers": 3,
+    "String": 1
   },
-  "totalSolved": 3
+  "totalSolved": 4
 }
