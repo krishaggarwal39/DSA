@@ -55,7 +55,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 | Language | Runtime | Memory |
 |----------|---------|--------|
-| Python | 0 ms | 19.3 MB |
+| Python | 0 ms | 19.4 MB |
 
 ## Submission Details
 

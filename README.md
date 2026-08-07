@@ -32,6 +32,7 @@ Hard   [░░░░░░░░░░░░░░░░░░░░] 0
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
+| 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
 | 643 | [Maximum Average Subarray I](array/0643-maximum-average-subarray-i) | 🟢 Easy | Python | Aug 6 |
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Aug 6 |
 | 11 | [Container With Most Water](array/0011-container-with-most-water) | 🟡 Medium | Python | Aug 5 |
@@ -47,4 +48,4 @@ Jul 9                  Aug 7
 
 ---
 
-*Last updated: August 7, 2026 at 10:10 AM*
+*Last updated: August 7, 2026 at 10:11 AM*

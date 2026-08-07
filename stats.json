@@ -64,14 +64,24 @@
       "title": "Maximum Average Subarray I"
     },
     {
+      "difficulty": "Medium",
+      "folder": "hash-table/0003-longest-substring-without-repeating-characters",
+      "id": "3",
+      "language": "Python",
+      "memory": "19.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "2026-08-07T04:40:46.287Z",
+      "title": "Longest Substring Without Repeating Characters"
+    },
+    {
       "id": "3",
       "title": "Longest Substring Without Repeating Characters",
       "difficulty": "Medium",
       "language": "Python",
-      "timestamp": "2026-08-07T04:40:46.287Z",
+      "timestamp": "2026-08-07T04:41:52.026Z",
       "folder": "hash-table/0003-longest-substring-without-repeating-characters",
       "runtime": "0 ms",
-      "memory": "19.3 MB"
+      "memory": "19.4 MB"
     }
   ],
   "topicCounts": {
