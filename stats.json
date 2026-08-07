@@ -1,16 +1,17 @@
 {
   "easy": 4,
   "hard": 0,
-  "lastSolveDate": "2026-08-06",
-  "medium": 1,
+  "lastSolveDate": "2026-08-07",
+  "medium": 2,
   "solvedProblems": {
     "1": true,
+    "3": true,
     "11": true,
     "26": true,
     "125": true,
     "643": true
   },
-  "streak": 2,
+  "streak": 3,
   "submissions": [
     {
       "difficulty": "Easy",
@@ -53,12 +54,22 @@
       "title": "Valid Palindrome"
     },
     {
-      "id": "643",
-      "title": "Maximum Average Subarray I",
       "difficulty": "Easy",
-      "language": "Python",
-      "timestamp": "2026-08-06T06:53:57.054Z",
       "folder": "array/0643-maximum-average-subarray-i",
+      "id": "643",
+      "language": "Python",
+      "memory": "19.3 MB",
+      "runtime": "0 ms",
+      "timestamp": "2026-08-06T06:53:57.054Z",
+      "title": "Maximum Average Subarray I"
+    },
+    {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "language": "Python",
+      "timestamp": "2026-08-07T04:40:46.287Z",
+      "folder": "hash-table/0003-longest-substring-without-repeating-characters",
       "runtime": "0 ms",
       "memory": "19.3 MB"
     }
@@ -66,10 +77,10 @@
   "topicCounts": {
     "Array": 4,
     "Greedy": 1,
-    "Hash Table": 1,
-    "String": 1,
-    "Two Pointers": 3,
-    "Sliding Window": 1
+    "Hash Table": 2,
+    "Sliding Window": 2,
+    "String": 2,
+    "Two Pointers": 3
   },
-  "totalSolved": 5
+  "totalSolved": 6
 }
