@@ -1,17 +1,18 @@
 {
   "easy": 4,
-  "hard": 0,
-  "lastSolveDate": "2026-08-07",
+  "hard": 1,
+  "lastSolveDate": "2026-08-19",
   "medium": 2,
   "solvedProblems": {
     "1": true,
     "3": true,
+    "4": true,
     "11": true,
     "26": true,
     "125": true,
     "643": true
   },
-  "streak": 3,
+  "streak": 1,
   "submissions": [
     {
       "difficulty": "Easy",
@@ -74,23 +75,35 @@
       "title": "Longest Substring Without Repeating Characters"
     },
     {
-      "id": "3",
-      "title": "Longest Substring Without Repeating Characters",
       "difficulty": "Medium",
-      "language": "Python",
-      "timestamp": "2026-08-07T04:41:52.026Z",
       "folder": "hash-table/0003-longest-substring-without-repeating-characters",
+      "id": "3",
+      "language": "Python",
+      "memory": "19.4 MB",
       "runtime": "0 ms",
-      "memory": "19.4 MB"
+      "timestamp": "2026-08-07T04:41:52.026Z",
+      "title": "Longest Substring Without Repeating Characters"
+    },
+    {
+      "id": "4",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "language": "Python",
+      "timestamp": "2026-08-19T14:16:00.993Z",
+      "folder": "array/0004-median-of-two-sorted-arrays",
+      "runtime": "0 ms",
+      "memory": "19.5 MB"
     }
   ],
   "topicCounts": {
-    "Array": 4,
+    "Array": 5,
     "Greedy": 1,
     "Hash Table": 2,
     "Sliding Window": 2,
     "String": 2,
-    "Two Pointers": 3
+    "Two Pointers": 3,
+    "Binary Search": 1,
+    "Divide and Conquer": 1
   },
-  "totalSolved": 6
+  "totalSolved": 7
 }
