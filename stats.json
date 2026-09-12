@@ -1,5 +1,5 @@
 {
-  "easy": 5,
+  "easy": 6,
   "hard": 1,
   "lastSolveDate": "2026-09-12",
   "medium": 3,
@@ -11,6 +11,7 @@
     "15": true,
     "26": true,
     "125": true,
+    "136": true,
     "485": true,
     "643": true
   },
@@ -177,18 +178,28 @@
       "title": "3Sum"
     },
     {
-      "id": "15",
-      "title": "3Sum",
       "difficulty": "Medium",
-      "language": "Java",
-      "timestamp": "2026-09-12T07:02:40.631Z",
       "folder": "array/0015-3sum",
+      "id": "15",
+      "language": "Java",
+      "memory": "",
       "runtime": "",
-      "memory": ""
+      "timestamp": "2026-09-12T07:02:40.631Z",
+      "title": "3Sum"
+    },
+    {
+      "id": "136",
+      "title": "Single Number",
+      "difficulty": "Easy",
+      "language": "Java",
+      "timestamp": "2026-09-12T07:28:14.338Z",
+      "folder": "array/0136-single-number",
+      "runtime": "0 ms",
+      "memory": "42.8 MB"
     }
   ],
   "topicCounts": {
-    "Array": 7,
+    "Array": 8,
     "Binary Search": 1,
     "Divide and Conquer": 1,
     "Greedy": 1,
@@ -196,7 +207,8 @@
     "Sliding Window": 2,
     "Sorting": 1,
     "String": 2,
-    "Two Pointers": 4
+    "Two Pointers": 4,
+    "Bit Manipulation": 1
   },
-  "totalSolved": 9
+  "totalSolved": 10
 }

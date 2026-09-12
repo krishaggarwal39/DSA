@@ -6,13 +6,13 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 9 | 5 | 3 | 1 | 1 days |
+| 10 | 6 | 3 | 1 | 1 days |
 
 ## Progress
 
 ```
-Easy   [███████████░░░░░░░░░] 5
-Medium [███████░░░░░░░░░░░░░] 3
+Easy   [████████████░░░░░░░░] 6
+Medium [██████░░░░░░░░░░░░░░] 3
 Hard   [██░░░░░░░░░░░░░░░░░░] 1
 ```
 
@@ -20,7 +20,7 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 
 | Topic | Problems Solved |
 |-------|:---:|
-| Array | 7 |
+| Array | 8 |
 | Two Pointers | 4 |
 | Hash Table | 2 |
 | Sliding Window | 2 |
@@ -29,11 +29,13 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | Divide and Conquer | 1 |
 | Greedy | 1 |
 | Sorting | 1 |
+| Bit Manipulation | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
@@ -61,4 +63,4 @@ Aug 14                Sep 12
 
 ---
 
-*Last updated: September 12, 2026 at 12:32 PM*
+*Last updated: September 12, 2026 at 12:58 PM*
