@@ -26,15 +26,16 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | Sliding Window | 2 |
 | String | 2 |
 | Binary Search | 1 |
+| Bit Manipulation | 1 |
 | Divide and Conquer | 1 |
 | Greedy | 1 |
 | Sorting | 1 |
-| Bit Manipulation | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
@@ -63,4 +64,4 @@ Aug 14                Sep 12
 
 ---
 
-*Last updated: September 12, 2026 at 12:58 PM*
+*Last updated: September 12, 2026 at 01:16 PM*
