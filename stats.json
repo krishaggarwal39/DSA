@@ -218,14 +218,24 @@
       "title": "Single Number"
     },
     {
+      "difficulty": "Easy",
+      "folder": "array/0136-single-number",
+      "id": "136",
+      "language": "Java",
+      "memory": "47.1 MB",
+      "runtime": "536 ms",
+      "timestamp": "2026-09-12T08:09:47.646Z",
+      "title": "Single Number"
+    },
+    {
       "id": "136",
       "title": "Single Number",
       "difficulty": "Easy",
       "language": "Java",
-      "timestamp": "2026-09-12T08:09:47.646Z",
+      "timestamp": "2026-09-12T08:15:22.104Z",
       "folder": "array/0136-single-number",
-      "runtime": "536 ms",
-      "memory": "47.1 MB"
+      "runtime": "0 ms",
+      "memory": "42.6 MB"
     }
   ],
   "topicCounts": {
