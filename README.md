@@ -37,6 +37,7 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
+| 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
