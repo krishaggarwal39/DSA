@@ -35,6 +35,7 @@ Hard   [███░░░░░░░░░░░░░░░░░] 1
 |---|---------|:---:|----------|------|
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
+| 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
@@ -55,4 +56,4 @@ Aug 14                Sep 12
 
 ---
 
-*Last updated: September 12, 2026 at 12:14 PM*
+*Last updated: September 12, 2026 at 12:17 PM*

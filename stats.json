@@ -126,14 +126,24 @@
       "title": "Max Consecutive Ones"
     },
     {
+      "difficulty": "Easy",
+      "folder": "array/0485-max-consecutive-ones",
+      "id": "485",
+      "language": "Java",
+      "memory": "42.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "2026-09-12T06:44:09.302Z",
+      "title": "Max Consecutive Ones"
+    },
+    {
       "id": "485",
       "title": "Max Consecutive Ones",
       "difficulty": "Easy",
       "language": "Java",
-      "timestamp": "2026-09-12T06:44:09.302Z",
+      "timestamp": "2026-09-12T06:47:33.720Z",
       "folder": "array/0485-max-consecutive-ones",
-      "runtime": "0 ms",
-      "memory": "42.8 MB"
+      "runtime": "3 ms",
+      "memory": "52.7 MB"
     }
   ],
   "topicCounts": {
