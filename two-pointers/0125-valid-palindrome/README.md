@@ -57,10 +57,10 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 | Language | Runtime | Memory |
 |----------|---------|--------|
-| Java | 2 ms | 43.9 MB |
+| Java | N/A | N/A |
 
 ## Submission Details
 
-- **Submitted:** August 6, 2026
+- **Submitted:** September 12, 2026
 - **LeetCode Link:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 

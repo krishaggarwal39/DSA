@@ -25,14 +25,15 @@ Hard   [███░░░░░░░░░░░░░░░░░] 1
 | Hash Table | 2 |
 | Sliding Window | 2 |
 | String | 2 |
-| Greedy | 1 |
 | Binary Search | 1 |
 | Divide and Conquer | 1 |
+| Greedy | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
@@ -45,10 +46,10 @@ Hard   [███░░░░░░░░░░░░░░░░░] 1
 ## Contribution Streak
 
 ```
-Last 30 Days: ░░░░░░░░░░░░░░░███░░░░░░░░░░░█
-Jul 21                Aug 19
+Last 30 Days: ░░░░░█░░░░░░░░░░░░░░░░░░░░░░░█
+Aug 14                Sep 12
 ```
 
 ---
 
-*Last updated: August 19, 2026 at 07:46 PM*
+*Last updated: September 12, 2026 at 11:49 AM*
