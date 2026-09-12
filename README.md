@@ -6,34 +6,40 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 8 | 5 | 2 | 1 | 1 days |
+| 9 | 5 | 3 | 1 | 1 days |
 
 ## Progress
 
 ```
-Easy   [█████████████░░░░░░░] 5
-Medium [█████░░░░░░░░░░░░░░░] 2
-Hard   [███░░░░░░░░░░░░░░░░░] 1
+Easy   [███████████░░░░░░░░░] 5
+Medium [███████░░░░░░░░░░░░░] 3
+Hard   [██░░░░░░░░░░░░░░░░░░] 1
 ```
 
 ## Topics
 
 | Topic | Problems Solved |
 |-------|:---:|
-| Array | 6 |
-| Two Pointers | 3 |
+| Array | 7 |
+| Two Pointers | 4 |
 | Hash Table | 2 |
 | Sliding Window | 2 |
 | String | 2 |
 | Binary Search | 1 |
 | Divide and Conquer | 1 |
 | Greedy | 1 |
+| Sorting | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
+| 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
+| 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
+| 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
+| 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
@@ -52,4 +58,4 @@ Aug 14                Sep 12
 
 ---
 
-*Last updated: September 12, 2026 at 12:17 PM*
+*Last updated: September 12, 2026 at 12:31 PM*

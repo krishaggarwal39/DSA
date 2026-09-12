@@ -2,12 +2,13 @@
   "easy": 5,
   "hard": 1,
   "lastSolveDate": "2026-09-12",
-  "medium": 2,
+  "medium": 3,
   "solvedProblems": {
     "1": true,
     "3": true,
     "4": true,
     "11": true,
+    "15": true,
     "26": true,
     "125": true,
     "485": true,
@@ -136,25 +137,36 @@
       "title": "Max Consecutive Ones"
     },
     {
-      "id": "485",
-      "title": "Max Consecutive Ones",
       "difficulty": "Easy",
-      "language": "Java",
-      "timestamp": "2026-09-12T06:47:33.720Z",
       "folder": "array/0485-max-consecutive-ones",
+      "id": "485",
+      "language": "Java",
+      "memory": "52.7 MB",
       "runtime": "3 ms",
-      "memory": "52.7 MB"
+      "timestamp": "2026-09-12T06:47:33.720Z",
+      "title": "Max Consecutive Ones"
+    },
+    {
+      "id": "15",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "language": "Java",
+      "timestamp": "2026-09-12T07:01:30.033Z",
+      "folder": "array/0015-3sum",
+      "runtime": "",
+      "memory": ""
     }
   ],
   "topicCounts": {
-    "Array": 6,
+    "Array": 7,
     "Binary Search": 1,
     "Divide and Conquer": 1,
     "Greedy": 1,
     "Hash Table": 2,
     "Sliding Window": 2,
     "String": 2,
-    "Two Pointers": 3
+    "Two Pointers": 4,
+    "Sorting": 1
   },
-  "totalSolved": 8
+  "totalSolved": 9
 }
