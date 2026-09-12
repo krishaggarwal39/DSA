@@ -38,6 +38,7 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
+| 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
@@ -54,7 +55,6 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Aug 6 |
 | 11 | [Container With Most Water](array/0011-container-with-most-water) | 🟡 Medium | Python | Aug 5 |
 | 1 | [Two Sum](array/0001-two-sum) | 🟢 Easy | Java | Aug 5 |
-| 26 | [Remove Duplicates from Sorted Array](array/0026-remove-duplicates-from-sorted-array) | 🟢 Easy | Python | Aug 5 |
 
 ## Contribution Streak
 
