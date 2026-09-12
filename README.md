@@ -6,13 +6,13 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 7 | 4 | 2 | 1 | 1 days |
+| 8 | 5 | 2 | 1 | 1 days |
 
 ## Progress
 
 ```
-Easy   [███████████░░░░░░░░░] 4
-Medium [██████░░░░░░░░░░░░░░] 2
+Easy   [█████████████░░░░░░░] 5
+Medium [█████░░░░░░░░░░░░░░░] 2
 Hard   [███░░░░░░░░░░░░░░░░░] 1
 ```
 
@@ -20,7 +20,7 @@ Hard   [███░░░░░░░░░░░░░░░░░] 1
 
 | Topic | Problems Solved |
 |-------|:---:|
-| Array | 5 |
+| Array | 6 |
 | Two Pointers | 3 |
 | Hash Table | 2 |
 | Sliding Window | 2 |
@@ -33,6 +33,7 @@ Hard   [███░░░░░░░░░░░░░░░░░] 1
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
@@ -53,4 +54,4 @@ Aug 14                Sep 12
 
 ---
 
-*Last updated: September 12, 2026 at 11:49 AM*
+*Last updated: September 12, 2026 at 12:12 PM*

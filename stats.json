@@ -1,5 +1,5 @@
 {
-  "easy": 4,
+  "easy": 5,
   "hard": 1,
   "lastSolveDate": "2026-09-12",
   "medium": 2,
@@ -10,6 +10,7 @@
     "11": true,
     "26": true,
     "125": true,
+    "485": true,
     "643": true
   },
   "streak": 1,
@@ -105,18 +106,28 @@
       "title": "Valid Palindrome"
     },
     {
+      "difficulty": "Easy",
+      "folder": "two-pointers/0125-valid-palindrome",
       "id": "125",
-      "title": "Valid Palindrome",
+      "language": "Java",
+      "memory": "",
+      "runtime": "",
+      "timestamp": "2026-09-12T06:19:35.880Z",
+      "title": "Valid Palindrome"
+    },
+    {
+      "id": "485",
+      "title": "Max Consecutive Ones",
       "difficulty": "Easy",
       "language": "Java",
-      "timestamp": "2026-09-12T06:19:35.880Z",
-      "folder": "two-pointers/0125-valid-palindrome",
-      "runtime": "",
-      "memory": ""
+      "timestamp": "2026-09-12T06:42:14.363Z",
+      "folder": "array/0485-max-consecutive-ones",
+      "runtime": "0 ms",
+      "memory": "42.5 MB"
     }
   ],
   "topicCounts": {
-    "Array": 5,
+    "Array": 6,
     "Binary Search": 1,
     "Divide and Conquer": 1,
     "Greedy": 1,
@@ -125,5 +136,5 @@
     "String": 2,
     "Two Pointers": 3
   },
-  "totalSolved": 7
+  "totalSolved": 8
 }
