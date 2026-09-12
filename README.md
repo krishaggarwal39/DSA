@@ -34,8 +34,6 @@ Hard   [███░░░░░░░░░░░░░░░░░] 1
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
 | 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
-| 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
-| 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
