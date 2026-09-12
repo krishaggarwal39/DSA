@@ -37,6 +37,7 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 13 |
+| 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 13 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
@@ -55,7 +56,6 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
-| 643 | [Maximum Average Subarray I](array/0643-maximum-average-subarray-i) | 🟢 Easy | Python | Aug 6 |
 
 ## Contribution Streak
 
@@ -66,4 +66,4 @@ Aug 14                Sep 12
 
 ---
 
-*Last updated: September 13, 2026 at 04:34 AM*
+*Last updated: September 13, 2026 at 04:57 AM*
