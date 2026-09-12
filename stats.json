@@ -147,11 +147,21 @@
       "title": "Max Consecutive Ones"
     },
     {
+      "difficulty": "Medium",
+      "folder": "array/0015-3sum",
+      "id": "15",
+      "language": "Java",
+      "memory": "",
+      "runtime": "",
+      "timestamp": "2026-09-12T07:01:30.033Z",
+      "title": "3Sum"
+    },
+    {
       "id": "15",
       "title": "3Sum",
       "difficulty": "Medium",
       "language": "Java",
-      "timestamp": "2026-09-12T07:01:30.033Z",
+      "timestamp": "2026-09-12T07:01:45.606Z",
       "folder": "array/0015-3sum",
       "runtime": "",
       "memory": ""
@@ -164,9 +174,9 @@
     "Greedy": 1,
     "Hash Table": 2,
     "Sliding Window": 2,
+    "Sorting": 1,
     "String": 2,
-    "Two Pointers": 4,
-    "Sorting": 1
+    "Two Pointers": 4
   },
   "totalSolved": 9
 }
