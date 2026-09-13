@@ -41,7 +41,7 @@ Example 1:
 
 | Language | Runtime | Memory |
 |----------|---------|--------|
-| Java | 0 ms | 42.7 MB |
+| Java | 0 ms | 42.6 MB |
 
 ## Submission Details
 
