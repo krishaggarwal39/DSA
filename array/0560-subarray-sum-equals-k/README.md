@@ -41,11 +41,11 @@ Example 1:
 
 | Language | Runtime | Memory |
 |----------|---------|--------|
-| Java | 0 ms | 42.4 MB |
+| Java | 0 ms | 42.7 MB |
 
 ## Submission Details
 
-- **Submitted:** September 13, 2026
+- **Submitted:** September 14, 2026
 - **LeetCode Link:** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 <details>

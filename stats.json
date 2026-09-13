@@ -1,7 +1,7 @@
 {
   "easy": 6,
   "hard": 1,
-  "lastSolveDate": "2026-09-12",
+  "lastSolveDate": "2026-09-13",
   "medium": 4,
   "solvedProblems": {
     "1": true,
@@ -16,7 +16,7 @@
     "560": true,
     "643": true
   },
-  "streak": 1,
+  "streak": 2,
   "submissions": [
     {
       "difficulty": "Easy",
@@ -259,14 +259,24 @@
       "title": "Subarray Sum Equals K"
     },
     {
+      "difficulty": "Medium",
+      "folder": "array/0560-subarray-sum-equals-k",
+      "id": "560",
+      "language": "Java",
+      "memory": "42.4 MB",
+      "runtime": "0 ms",
+      "timestamp": "2026-09-12T23:27:54.576Z",
+      "title": "Subarray Sum Equals K"
+    },
+    {
       "id": "560",
       "title": "Subarray Sum Equals K",
       "difficulty": "Medium",
       "language": "Java",
-      "timestamp": "2026-09-12T23:27:54.576Z",
+      "timestamp": "2026-09-13T20:37:18.345Z",
       "folder": "array/0560-subarray-sum-equals-k",
       "runtime": "0 ms",
-      "memory": "42.4 MB"
+      "memory": "42.7 MB"
     }
   ],
   "topicCounts": {

@@ -6,7 +6,7 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 11 | 6 | 4 | 1 | 1 days |
+| 11 | 6 | 4 | 1 | 2 days |
 
 ## Progress
 
@@ -36,6 +36,7 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 14 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 13 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 13 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 12 |
@@ -55,15 +56,14 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 125 | [Valid Palindrome](two-pointers/0125-valid-palindrome) | 🟢 Easy | Java | Sep 12 |
 | 4 | [Median of Two Sorted Arrays](array/0004-median-of-two-sorted-arrays) | 🔴 Hard | Python | Aug 19 |
 | 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
-| 3 | [Longest Substring Without Repeating Characters](hash-table/0003-longest-substring-without-repeating-characters) | 🟡 Medium | Python | Aug 7 |
 
 ## Contribution Streak
 
 ```
-Last 30 Days: ░░░░░█░░░░░░░░░░░░░░░░░░░░░░░█
-Aug 14                Sep 12
+Last 30 Days: ░░░░█░░░░░░░░░░░░░░░░░░░░░░░██
+Aug 15                Sep 13
 ```
 
 ---
 
-*Last updated: September 13, 2026 at 04:57 AM*
+*Last updated: September 14, 2026 at 02:07 AM*
