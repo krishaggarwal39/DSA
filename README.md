@@ -28,15 +28,16 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | String | 2 |
 | Binary Search | 1 |
 | Bit Manipulation | 1 |
+| Dynamic Programming | 1 |
 | Greedy | 1 |
 | Prefix Sum | 1 |
 | Sorting | 1 |
-| Dynamic Programming | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 53 | [Maximum Subarray](array/0053-maximum-subarray) | 🟡 Medium | Java | Sep 15 |
 | 53 | [Maximum Subarray](array/0053-maximum-subarray) | 🟡 Medium | Java | Sep 15 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 14 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 14 |
@@ -56,7 +57,6 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
-| 485 | [Max Consecutive Ones](array/0485-max-consecutive-ones) | 🟢 Easy | Java | Sep 12 |
 
 ## Contribution Streak
 
@@ -67,4 +67,4 @@ Aug 17                Sep 15
 
 ---
 
-*Last updated: September 15, 2026 at 12:36 PM*
+*Last updated: September 15, 2026 at 12:37 PM*
