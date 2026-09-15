@@ -1,5 +1,5 @@
 {
-  "easy": 6,
+  "easy": 7,
   "hard": 1,
   "lastSolveDate": "2026-09-15",
   "medium": 6,
@@ -12,6 +12,7 @@
     "26": true,
     "53": true,
     "75": true,
+    "88": true,
     "125": true,
     "136": true,
     "485": true,
@@ -351,31 +352,41 @@
       "title": "Maximum Subarray"
     },
     {
-      "id": "75",
-      "title": "Sort Colors",
       "difficulty": "Medium",
-      "language": "Java",
-      "timestamp": "2026-09-15T07:14:33.540Z",
       "folder": "array/0075-sort-colors",
+      "id": "75",
+      "language": "Java",
+      "memory": "43.1 MB",
       "runtime": "1 ms",
-      "memory": "43.1 MB"
+      "timestamp": "2026-09-15T07:14:33.540Z",
+      "title": "Sort Colors"
+    },
+    {
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "language": "Java",
+      "timestamp": "2026-09-15T07:18:50.042Z",
+      "folder": "array/0088-merge-sorted-array",
+      "runtime": "0 ms",
+      "memory": "43 MB"
     }
   ],
   "topicCounts": {
-    "Array": 11,
+    "Array": 12,
     "Binary Search": 1,
     "Bit Manipulation": 1,
+    "Bubble Sort": 1,
     "Divide and Conquer": 2,
     "Dynamic Programming": 1,
     "Greedy": 1,
     "Hash Table": 3,
     "Prefix Sum": 1,
-    "Sliding Window": 2,
-    "Sorting": 2,
-    "String": 2,
-    "Two Pointers": 5,
     "Quicksort": 1,
-    "Bubble Sort": 1
+    "Sliding Window": 2,
+    "Sorting": 3,
+    "String": 2,
+    "Two Pointers": 6
   },
-  "totalSolved": 13
+  "totalSolved": 14
 }
