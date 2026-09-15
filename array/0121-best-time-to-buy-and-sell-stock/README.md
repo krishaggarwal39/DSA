@@ -49,10 +49,10 @@ Example 2:
 
 | Language | Runtime | Memory |
 |----------|---------|--------|
-| Java | 0 ms | 42.2 MB |
+| Java | 1 ms | 93.7 MB |
 
 ## Submission Details
 
-- **Submitted:** September 15, 2026
+- **Submitted:** September 16, 2026
 - **LeetCode Link:** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
