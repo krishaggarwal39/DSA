@@ -2,7 +2,7 @@
   "easy": 6,
   "hard": 1,
   "lastSolveDate": "2026-09-15",
-  "medium": 5,
+  "medium": 6,
   "solvedProblems": {
     "1": true,
     "3": true,
@@ -11,6 +11,7 @@
     "15": true,
     "26": true,
     "53": true,
+    "75": true,
     "125": true,
     "136": true,
     "485": true,
@@ -340,18 +341,28 @@
       "title": "Maximum Subarray"
     },
     {
+      "difficulty": "Medium",
+      "folder": "array/0053-maximum-subarray",
       "id": "53",
-      "title": "Maximum Subarray",
+      "language": "Java",
+      "memory": "",
+      "runtime": "",
+      "timestamp": "2026-09-15T07:07:01.124Z",
+      "title": "Maximum Subarray"
+    },
+    {
+      "id": "75",
+      "title": "Sort Colors",
       "difficulty": "Medium",
       "language": "Java",
-      "timestamp": "2026-09-15T07:07:01.124Z",
-      "folder": "array/0053-maximum-subarray",
-      "runtime": "",
-      "memory": ""
+      "timestamp": "2026-09-15T07:14:33.540Z",
+      "folder": "array/0075-sort-colors",
+      "runtime": "1 ms",
+      "memory": "43.1 MB"
     }
   ],
   "topicCounts": {
-    "Array": 10,
+    "Array": 11,
     "Binary Search": 1,
     "Bit Manipulation": 1,
     "Divide and Conquer": 2,
@@ -360,9 +371,11 @@
     "Hash Table": 3,
     "Prefix Sum": 1,
     "Sliding Window": 2,
-    "Sorting": 1,
+    "Sorting": 2,
     "String": 2,
-    "Two Pointers": 4
+    "Two Pointers": 5,
+    "Quicksort": 1,
+    "Bubble Sort": 1
   },
-  "totalSolved": 12
+  "totalSolved": 13
 }

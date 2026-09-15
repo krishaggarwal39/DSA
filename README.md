@@ -6,13 +6,13 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 12 | 6 | 5 | 1 | 1 days |
+| 13 | 6 | 6 | 1 | 1 days |
 
 ## Progress
 
 ```
-Easy   [██████████░░░░░░░░░░] 6
-Medium [████████░░░░░░░░░░░░] 5
+Easy   [█████████░░░░░░░░░░░] 6
+Medium [█████████░░░░░░░░░░░] 6
 Hard   [██░░░░░░░░░░░░░░░░░░] 1
 ```
 
@@ -20,23 +20,26 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 
 | Topic | Problems Solved |
 |-------|:---:|
-| Array | 10 |
-| Two Pointers | 4 |
+| Array | 11 |
+| Two Pointers | 5 |
 | Hash Table | 3 |
 | Divide and Conquer | 2 |
 | Sliding Window | 2 |
+| Sorting | 2 |
 | String | 2 |
 | Binary Search | 1 |
 | Bit Manipulation | 1 |
 | Dynamic Programming | 1 |
 | Greedy | 1 |
 | Prefix Sum | 1 |
-| Sorting | 1 |
+| Quicksort | 1 |
+| Bubble Sort | 1 |
 
 ## Recent Submissions
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 75 | [Sort Colors](array/0075-sort-colors) | 🟡 Medium | Java | Sep 15 |
 | 53 | [Maximum Subarray](array/0053-maximum-subarray) | 🟡 Medium | Java | Sep 15 |
 | 53 | [Maximum Subarray](array/0053-maximum-subarray) | 🟡 Medium | Java | Sep 15 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 14 |
@@ -56,7 +59,6 @@ Hard   [██░░░░░░░░░░░░░░░░░░] 1
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
-| 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 
 ## Contribution Streak
 
@@ -67,4 +69,4 @@ Aug 17                Sep 15
 
 ---
 
-*Last updated: September 15, 2026 at 12:37 PM*
+*Last updated: September 15, 2026 at 12:44 PM*
