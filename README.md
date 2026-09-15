@@ -6,13 +6,13 @@ Auto-synced with [LeetCode2GitHub](https://github.com) Chrome Extension
 
 | Total Solved | Easy | Medium | Hard | Current Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| 14 | 7 | 6 | 1 | 1 days |
+| 15 | 8 | 6 | 1 | 1 days |
 
 ## Progress
 
 ```
-Easy   [██████████░░░░░░░░░░] 7
-Medium [█████████░░░░░░░░░░░] 6
+Easy   [███████████░░░░░░░░░] 8
+Medium [████████░░░░░░░░░░░░] 6
 Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 ```
 
@@ -20,17 +20,17 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 
 | Topic | Problems Solved |
 |-------|:---:|
-| Array | 12 |
+| Array | 13 |
 | Two Pointers | 6 |
 | Hash Table | 3 |
 | Sorting | 3 |
 | Divide and Conquer | 2 |
+| Dynamic Programming | 2 |
 | Sliding Window | 2 |
 | String | 2 |
 | Binary Search | 1 |
 | Bit Manipulation | 1 |
 | Bubble Sort | 1 |
-| Dynamic Programming | 1 |
 | Greedy | 1 |
 | Prefix Sum | 1 |
 | Quicksort | 1 |
@@ -39,6 +39,7 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 121 | [Best Time to Buy and Sell Stock](array/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | Sep 15 |
 | 88 | [Merge Sorted Array](array/0088-merge-sorted-array) | 🟢 Easy | Java | Sep 15 |
 | 75 | [Sort Colors](array/0075-sort-colors) | 🟡 Medium | Java | Sep 15 |
 | 53 | [Maximum Subarray](array/0053-maximum-subarray) | 🟡 Medium | Java | Sep 15 |
@@ -58,7 +59,6 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
-| 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 
 ## Contribution Streak
 
@@ -69,4 +69,4 @@ Aug 17                Sep 15
 
 ---
 
-*Last updated: September 15, 2026 at 12:48 PM*
+*Last updated: September 15, 2026 at 12:57 PM*
