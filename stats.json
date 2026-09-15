@@ -330,14 +330,24 @@
       "title": "Subarray Sum Equals K"
     },
     {
+      "difficulty": "Medium",
+      "folder": "array/0053-maximum-subarray",
+      "id": "53",
+      "language": "Java",
+      "memory": "42.1 MB",
+      "runtime": "0 ms",
+      "timestamp": "2026-09-15T07:06:44.969Z",
+      "title": "Maximum Subarray"
+    },
+    {
       "id": "53",
       "title": "Maximum Subarray",
       "difficulty": "Medium",
       "language": "Java",
-      "timestamp": "2026-09-15T07:06:44.969Z",
+      "timestamp": "2026-09-15T07:07:01.124Z",
       "folder": "array/0053-maximum-subarray",
-      "runtime": "0 ms",
-      "memory": "42.1 MB"
+      "runtime": "",
+      "memory": ""
     }
   ],
   "topicCounts": {
@@ -345,14 +355,14 @@
     "Binary Search": 1,
     "Bit Manipulation": 1,
     "Divide and Conquer": 2,
+    "Dynamic Programming": 1,
     "Greedy": 1,
     "Hash Table": 3,
     "Prefix Sum": 1,
     "Sliding Window": 2,
     "Sorting": 1,
     "String": 2,
-    "Two Pointers": 4,
-    "Dynamic Programming": 1
+    "Two Pointers": 4
   },
   "totalSolved": 12
 }
