@@ -373,14 +373,24 @@
       "title": "Merge Sorted Array"
     },
     {
+      "difficulty": "Easy",
+      "folder": "array/0121-best-time-to-buy-and-sell-stock",
+      "id": "121",
+      "language": "Java",
+      "memory": "42.8 MB",
+      "runtime": "0 ms",
+      "timestamp": "2026-09-15T07:27:46.288Z",
+      "title": "Best Time to Buy and Sell Stock"
+    },
+    {
       "id": "121",
       "title": "Best Time to Buy and Sell Stock",
       "difficulty": "Easy",
       "language": "Java",
-      "timestamp": "2026-09-15T07:27:46.288Z",
+      "timestamp": "2026-09-15T17:17:47.233Z",
       "folder": "array/0121-best-time-to-buy-and-sell-stock",
       "runtime": "0 ms",
-      "memory": "42.8 MB"
+      "memory": "42.2 MB"
     }
   ],
   "topicCounts": {

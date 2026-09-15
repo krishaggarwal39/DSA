@@ -40,6 +40,7 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
 | 121 | [Best Time to Buy and Sell Stock](array/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | Sep 15 |
+| 121 | [Best Time to Buy and Sell Stock](array/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | Sep 15 |
 | 88 | [Merge Sorted Array](array/0088-merge-sorted-array) | 🟢 Easy | Java | Sep 15 |
 | 75 | [Sort Colors](array/0075-sort-colors) | 🟡 Medium | Java | Sep 15 |
 | 53 | [Maximum Subarray](array/0053-maximum-subarray) | 🟡 Medium | Java | Sep 15 |
@@ -58,7 +59,6 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
-| 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Sep 12 |
 
 ## Contribution Streak
 
@@ -69,4 +69,4 @@ Aug 17                Sep 15
 
 ---
 
-*Last updated: September 15, 2026 at 12:57 PM*
+*Last updated: September 15, 2026 at 10:47 PM*
