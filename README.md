@@ -39,6 +39,7 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 1 | [Two Sum](array/0001-two-sum) | 🟢 Easy | Java | Oct 13 |
 | 121 | [Best Time to Buy and Sell Stock](array/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | Sep 16 |
 | 121 | [Best Time to Buy and Sell Stock](array/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | Sep 15 |
 | 121 | [Best Time to Buy and Sell Stock](array/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy | Java | Sep 15 |
@@ -58,15 +59,14 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 | 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
-| 136 | [Single Number](array/0136-single-number) | 🟢 Easy | Java | Sep 12 |
 
 ## Contribution Streak
 
 ```
-Last 30 Days: ░░█░░░░░░░░░░░░░░░░░░░░░░░██░█
-Aug 17                Sep 15
+Last 30 Days: ░█░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+Sep 14                Oct 13
 ```
 
 ---
 
-*Last updated: September 16, 2026 at 03:25 AM*
+*Last updated: October 13, 2026 at 10:36 PM*

@@ -1,7 +1,7 @@
 {
   "easy": 8,
   "hard": 1,
-  "lastSolveDate": "2026-09-15",
+  "lastSolveDate": "2026-10-13",
   "medium": 6,
   "solvedProblems": {
     "1": true,
@@ -393,14 +393,24 @@
       "title": "Best Time to Buy and Sell Stock"
     },
     {
+      "difficulty": "Easy",
+      "folder": "array/0121-best-time-to-buy-and-sell-stock",
       "id": "121",
-      "title": "Best Time to Buy and Sell Stock",
+      "language": "Java",
+      "memory": "93.7 MB",
+      "runtime": "1 ms",
+      "timestamp": "2026-09-15T21:55:29.647Z",
+      "title": "Best Time to Buy and Sell Stock"
+    },
+    {
+      "id": "1",
+      "title": "Two Sum",
       "difficulty": "Easy",
       "language": "Java",
-      "timestamp": "2026-09-15T21:55:29.647Z",
-      "folder": "array/0121-best-time-to-buy-and-sell-stock",
-      "runtime": "1 ms",
-      "memory": "93.7 MB"
+      "timestamp": "2026-10-13T17:06:32.789Z",
+      "folder": "array/0001-two-sum",
+      "runtime": "",
+      "memory": ""
     }
   ],
   "topicCounts": {

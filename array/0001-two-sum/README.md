@@ -64,11 +64,11 @@ Example 3:
 
 | Language | Runtime | Memory |
 |----------|---------|--------|
-| Java | 2 ms | 47.1 MB |
+| Java | N/A | N/A |
 
 ## Submission Details
 
-- **Submitted:** August 5, 2026
+- **Submitted:** October 13, 2026
 - **LeetCode Link:** [Two Sum](https://leetcode.com/problems/two-sum/)
 
 <details>
