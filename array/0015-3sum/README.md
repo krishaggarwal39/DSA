@@ -65,7 +65,7 @@ Example 3:
 
 ## Submission Details
 
-- **Submitted:** September 12, 2026
+- **Submitted:** October 13, 2026
 - **LeetCode Link:** [3Sum](https://leetcode.com/problems/3sum/)
 
 <details>

@@ -443,12 +443,22 @@
       "title": "Two Sum"
     },
     {
-      "id": "1",
-      "title": "Two Sum",
       "difficulty": "Easy",
-      "language": "Java",
-      "timestamp": "2026-10-13T17:08:03.109Z",
       "folder": "array/0001-two-sum",
+      "id": "1",
+      "language": "Java",
+      "memory": "",
+      "runtime": "",
+      "timestamp": "2026-10-13T17:08:03.109Z",
+      "title": "Two Sum"
+    },
+    {
+      "id": "15",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "language": "Java",
+      "timestamp": "2026-10-13T17:17:16.993Z",
+      "folder": "array/0015-3sum",
       "runtime": "",
       "memory": ""
     }

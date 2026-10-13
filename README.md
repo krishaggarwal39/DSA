@@ -39,6 +39,7 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 
 | # | Problem | Difficulty | Language | Date |
 |---|---------|:---:|----------|------|
+| 15 | [3Sum](array/0015-3sum) | 🟡 Medium | Java | Oct 13 |
 | 1 | [Two Sum](array/0001-two-sum) | 🟢 Easy | Java | Oct 13 |
 | 1 | [Two Sum](array/0001-two-sum) | 🟢 Easy | Java | Oct 13 |
 | 1 | [Two Sum](array/0001-two-sum) | 🟢 Easy | Java | Oct 13 |
@@ -58,7 +59,6 @@ Hard   [█░░░░░░░░░░░░░░░░░░░] 1
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 14 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 14 |
 | 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 13 |
-| 560 | [Subarray Sum Equals K](array/0560-subarray-sum-equals-k) | 🟡 Medium | Java | Sep 13 |
 
 ## Contribution Streak
 
@@ -69,4 +69,4 @@ Sep 14                Oct 13
 
 ---
 
-*Last updated: October 13, 2026 at 10:38 PM*
+*Last updated: October 13, 2026 at 10:47 PM*
